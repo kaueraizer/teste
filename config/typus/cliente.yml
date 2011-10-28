@@ -1,0 +1,8 @@
+# Use the README file as a reference to customize settings.
+
+Cliente:
+  fields:
+    default: nome, telefone, data_nasc
+    form: nome, telefone, data_nasc
+  relationships: 
+  application: Application
